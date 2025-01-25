@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leodd\\estructura.de.datos.sem6.1\\estructura.de.datos.sem6.1.csproj": {}
+    "C:\\Users\\ElizabethG\\estructura.de.datos.sem6.1\\estructura.de.datos.sem6.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leodd\\estructura.de.datos.sem6.1\\estructura.de.datos.sem6.1.csproj": {
+    "C:\\Users\\ElizabethG\\estructura.de.datos.sem6.1\\estructura.de.datos.sem6.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leodd\\estructura.de.datos.sem6.1\\estructura.de.datos.sem6.1.csproj",
+        "projectUniqueName": "C:\\Users\\ElizabethG\\estructura.de.datos.sem6.1\\estructura.de.datos.sem6.1.csproj",
         "projectName": "estructura.de.datos.sem6.1",
-        "projectPath": "C:\\Users\\Leodd\\estructura.de.datos.sem6.1\\estructura.de.datos.sem6.1.csproj",
-        "packagesPath": "C:\\Users\\Leodd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leodd\\estructura.de.datos.sem6.1\\obj\\",
+        "projectPath": "C:\\Users\\ElizabethG\\estructura.de.datos.sem6.1\\estructura.de.datos.sem6.1.csproj",
+        "packagesPath": "C:\\Users\\ElizabethG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ElizabethG\\estructura.de.datos.sem6.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Leodd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ElizabethG\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

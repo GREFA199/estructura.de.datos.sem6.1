@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("estructura.de.datos.sem6.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1072965e6992ff6e9347ff12be944cdcd1a0dbd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("estructura.de.datos.sem6.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("estructura.de.datos.sem6.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
